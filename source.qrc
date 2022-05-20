@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logo.png</file>
+    <file>logotecno.png</file>
+    <file>1650998992202.jpg</file>
+    <file>5c163bb9-c1d0-42ae-967d-74aad3544533.png</file>
+    <file>indir.jfif</file>
+    <file>indir.png</file>
+    <file>1.2.392.200036.9116.2.6.1.3268.2047367102.1588894797.277475.jpg</file>
+    <file>1d5ebd5a-7bef-4aa4-ab48-c893eebc041e.png</file>
+    <file>736543-200.png</file>
+    <file>1138756.jpg</file>
+    <file>startson.png</file>
+    <file>abe33aa9-ce5e-4394-a79d-868b91833ad7.png</file>
+    <file>Hopstarter-Soft-Scraps-Zoom-In.ico</file>
+    <file>Hopstarter-Soft-Scraps-Zoom-Out.ico</file>
+    <file>indir.png</file>
+    <file>lock.png</file>
+    <file>Oxygen-Icons.org-Oxygen-Actions-list-add-user.ico</file>
+    <file>reset.ico</file>
+  </qresource>
+</RCC>
